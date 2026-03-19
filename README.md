@@ -1,4 +1,4 @@
-# [Magento Google Shopping Feed](https://magefan.com/magento-2-google-shopping-feed-extension) | Export Product Feed for Google Merchant Center
+# [Magento Google Shopping Feed](https://magefan.com/magento-2-google-shopping-feed-extension) | Product Feed for Google Merchant
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/catalog/product/cache/103e1b2520de2a36a364b0391bff6bdc/i/c/icon-google-shopping-feed.jpg">
 
